@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\03-委托\bin\Debug\net6.0\03-委托.exe
+F:\VS-Pro\C# Advanced\C#高级\03-委托\bin\Debug\net6.0\03-委托.deps.json
+F:\VS-Pro\C# Advanced\C#高级\03-委托\bin\Debug\net6.0\03-委托.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\03-委托\bin\Debug\net6.0\03-委托.dll
+F:\VS-Pro\C# Advanced\C#高级\03-委托\bin\Debug\net6.0\03-委托.pdb
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.dll
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\refint\03-委托.dll
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.pdb
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\03-委托.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\03-委托\obj\Debug\net6.0\ref\03-委托.dll
