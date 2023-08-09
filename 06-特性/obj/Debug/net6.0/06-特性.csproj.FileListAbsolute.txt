@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\06-特性\bin\Debug\net6.0\06-特性.exe
+F:\VS-Pro\C# Advanced\C#高级\06-特性\bin\Debug\net6.0\06-特性.deps.json
+F:\VS-Pro\C# Advanced\C#高级\06-特性\bin\Debug\net6.0\06-特性.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\06-特性\bin\Debug\net6.0\06-特性.dll
+F:\VS-Pro\C# Advanced\C#高级\06-特性\bin\Debug\net6.0\06-特性.pdb
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.dll
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\refint\06-特性.dll
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.pdb
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\06-特性.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\06-特性\obj\Debug\net6.0\ref\06-特性.dll

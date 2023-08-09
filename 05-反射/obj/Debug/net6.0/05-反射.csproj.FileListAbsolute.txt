@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\05-反射\bin\Debug\net6.0\05-反射.exe
+F:\VS-Pro\C# Advanced\C#高级\05-反射\bin\Debug\net6.0\05-反射.deps.json
+F:\VS-Pro\C# Advanced\C#高级\05-反射\bin\Debug\net6.0\05-反射.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\05-反射\bin\Debug\net6.0\05-反射.dll
+F:\VS-Pro\C# Advanced\C#高级\05-反射\bin\Debug\net6.0\05-反射.pdb
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.dll
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\refint\05-反射.dll
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.pdb
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\05-反射.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\05-反射\obj\Debug\net6.0\ref\05-反射.dll

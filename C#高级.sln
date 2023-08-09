@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-String", "01-String\01-S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-正则", "02-正则\02-正则.csproj", "{1E0EC77E-137C-4C5B-9A6F-8BB445C404DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-事件和委托", "04-事件和委托\04-事件和委托.csproj", "{4C1C46FA-34FF-445D-A4BD-65EA01E8DF52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-事件和委托", "04-事件和委托\04-事件和委托.csproj", "{4C1C46FA-34FF-445D-A4BD-65EA01E8DF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-反射", "05-反射\05-反射.csproj", "{C32496BA-2D9A-4BFA-816D-4C7F41C03424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-特性", "06-特性\06-特性.csproj", "{C2FBFA0D-007F-4244-B014-33D3CB31AA80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{4C1C46FA-34FF-445D-A4BD-65EA01E8DF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C1C46FA-34FF-445D-A4BD-65EA01E8DF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C1C46FA-34FF-445D-A4BD-65EA01E8DF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32496BA-2D9A-4BFA-816D-4C7F41C03424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32496BA-2D9A-4BFA-816D-4C7F41C03424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32496BA-2D9A-4BFA-816D-4C7F41C03424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32496BA-2D9A-4BFA-816D-4C7F41C03424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FBFA0D-007F-4244-B014-33D3CB31AA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FBFA0D-007F-4244-B014-33D3CB31AA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FBFA0D-007F-4244-B014-33D3CB31AA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FBFA0D-007F-4244-B014-33D3CB31AA80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
