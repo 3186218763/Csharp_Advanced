@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "07-线程基础/1.0.0": {
+        "runtime": {
+          "07-线程基础.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07-线程基础/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

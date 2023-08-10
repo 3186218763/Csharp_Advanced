@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\10-XML\bin\Debug\net6.0\10-XML.exe
+F:\VS-Pro\C# Advanced\C#高级\10-XML\bin\Debug\net6.0\10-XML.deps.json
+F:\VS-Pro\C# Advanced\C#高级\10-XML\bin\Debug\net6.0\10-XML.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\10-XML\bin\Debug\net6.0\10-XML.dll
+F:\VS-Pro\C# Advanced\C#高级\10-XML\bin\Debug\net6.0\10-XML.pdb
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.dll
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\refint\10-XML.dll
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.pdb
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\10-XML.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\10-XML\obj\Debug\net6.0\ref\10-XML.dll

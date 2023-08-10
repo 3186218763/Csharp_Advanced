@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Skills>
+	<Skill>
+		<id>1</id>
+		<name lang="cn">技能1</name>
+		<damage>20</damage>
+	</Skill>
+
+	<Skill>
+		<id>2</id>
+		<name lang="cn">技能2</name>
+		<damage>288</damage>
+	</Skill>
+
+	<Skill>
+		<id>3</id>
+		<name lang="cn">技能3</name>
+		<damage>300</damage>
+	</Skill>
+
+	<Skill>
+		<id>4</id>
+		<name lang="cn">技能4</name>
+		<damage>500</damage>
+	</Skill>
+</Skills>

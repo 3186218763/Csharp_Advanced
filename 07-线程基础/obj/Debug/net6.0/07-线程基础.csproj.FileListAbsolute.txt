@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\bin\Debug\net6.0\07-线程基础.exe
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\bin\Debug\net6.0\07-线程基础.deps.json
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\bin\Debug\net6.0\07-线程基础.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\bin\Debug\net6.0\07-线程基础.dll
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\bin\Debug\net6.0\07-线程基础.pdb
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.dll
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\refint\07-线程基础.dll
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.pdb
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\07-线程基础.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\07-线程基础\obj\Debug\net6.0\ref\07-线程基础.dll
