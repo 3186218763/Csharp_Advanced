@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\bin\Debug\net6.0\13-TCP客户端.exe
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\bin\Debug\net6.0\13-TCP客户端.deps.json
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\bin\Debug\net6.0\13-TCP客户端.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\bin\Debug\net6.0\13-TCP客户端.dll
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\bin\Debug\net6.0\13-TCP客户端.pdb
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.dll
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\refint\13-TCP客户端.dll
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.pdb
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\13-TCP客户端.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\13-TCP客户端\obj\Debug\net6.0\ref\13-TCP客户端.dll
