@@ -27,20 +27,26 @@ namespace _07_线程基础
 
         static void Main(string[] args)
         {
-            /*调用异步委托(不推荐使用)
-            TestDelegate testDelegate = Test;
-            testDelegate.BeginInvoke(null, null);
-            Console.WriteLine("Main Completed");
-            */
-
-            #region 线程的使用
-            Thread MyThread1 = new Thread(Test);//放入线程方法
-            MyThread1.Start();
             
-
+            #region 调用异步委托(不推荐使用)
+            /*
+                TestDelegate testDelegate = Test;
+                testDelegate.BeginInvoke(null, null);
+                Console.WriteLine("Main Completed");
+            */
             #endregion
 
+            #region 线程的使用
+            /*
+            Thread MyThread1 = new Thread(Test);//放入线程方法
+            MyThread1.Start();
+            */
+            #endregion
 
+            DownLoadTool downloadTool = new DownLoadTool("httpsddd", "sss");
+
+            Thread t = new Thread(downloadTool.DownLoad);
+            t.Start();
         }
     }
 

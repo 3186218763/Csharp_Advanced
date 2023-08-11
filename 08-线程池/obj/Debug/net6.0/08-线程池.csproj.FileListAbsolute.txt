@@ -1,0 +1,14 @@
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\bin\Debug\net6.0\08-线程池.exe
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\bin\Debug\net6.0\08-线程池.deps.json
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\bin\Debug\net6.0\08-线程池.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\bin\Debug\net6.0\08-线程池.dll
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\bin\Debug\net6.0\08-线程池.pdb
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.dll
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\refint\08-线程池.dll
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.pdb
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\08-线程池.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\08-线程池\obj\Debug\net6.0\ref\08-线程池.dll
