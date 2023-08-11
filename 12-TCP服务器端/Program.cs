@@ -25,4 +25,7 @@ int Length = client.Receive(data);
 string message =  Encoding.UTF8.GetString(data, 0, Length);
 Console.WriteLine($"接受到客户端的消息: {message}");
 
+client.Close();
+tcpServer.Close();
+
 #endregion

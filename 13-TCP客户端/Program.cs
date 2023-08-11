@@ -18,5 +18,6 @@ Console.WriteLine("链接上服务端了");
 string message = "我上线了";
 tepClient.Send(Encoding.UTF8.GetBytes(message));//把string转换为Byte数组(二进制):这里UTF8的方法，也可以是其他方法
 
+tepClient.Close();
 #endregion
 
