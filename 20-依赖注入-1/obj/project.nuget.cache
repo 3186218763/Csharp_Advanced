@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TkyEMhLiE6YcP9XD9L8CJQMEQ19PqnDzjm8TgH1FoaSFTrB4mXRSm+q2dgphTCGb8qi0EfT5WJir2fbALhmpw==",
+  "success": true,
+  "projectFilePath": "F:\\VS-Pro\\C# Advanced\\C#高级\\20-依赖注入-1\\20-依赖注入-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\song1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\song1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

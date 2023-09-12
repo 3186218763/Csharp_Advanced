@@ -1,0 +1,15 @@
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\bin\Debug\net6.0\19-LINQ-2.exe
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\bin\Debug\net6.0\19-LINQ-2.deps.json
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\bin\Debug\net6.0\19-LINQ-2.runtimeconfig.json
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\bin\Debug\net6.0\19-LINQ-2.dll
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\bin\Debug\net6.0\19-LINQ-2.pdb
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.AssemblyInfoInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.AssemblyInfo.cs
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.csproj.CoreCompileInputs.cache
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.sourcelink.json
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.dll
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\refint\19-LINQ-2.dll
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.pdb
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\19-LINQ-2.genruntimeconfig.cache
+F:\VS-Pro\C# Advanced\C#高级\19-LINQ-2\obj\Debug\net6.0\ref\19-LINQ-2.dll

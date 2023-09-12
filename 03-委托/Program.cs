@@ -51,6 +51,7 @@ namespace _03_委托
             //Func<int, int, int> plusFunc2 = (a, b) => {return a + b;};//如果只有一行，可简化为下面
             Func<int, int, int> plusFunc2 = (a, b) => a + b;
             Console.WriteLine(plusFunc2(1,2));
+            
         }
     }
 }
